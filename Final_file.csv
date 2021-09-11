@@ -1,0 +1,379 @@
+Company,Geo Location,Brand,Partner,Campaign,Campaign ID,Region,Language,Leads Generated,Cost Per Lead,Cost of Campaign,New Customers,Effectivenes Rate,ROAS
+1830,NORTH,gaga-br-web,ABC,gaga - BR - BR - adc - id8, id8, BR , BR ,8142,0.25,2035.5,57,0.2106,21.1
+1830,NORTH,gaga-br-web,AZA,gaga - BR - BR - aza - PUSH - id17, PUSH - id17, BR , BR ,1730,0.4,692.0,28,0.3509,35.1
+1830,NORTH,gaga-br-web,AZA,gaga - BR - BR - aza1 - id16, id16, BR , BR ,117,0.5,58.5,1,0.0785,7.8
+1830,NORTH,gaga-br-web,CA,gaga - BR - PT - ca - id22, id22, PT , BR ,381,1.25,476.25,1,0.0574,5.7
+1830,NORTH,gaga-br-web,LA,gaga - BR - BR - la - id9, id9, BR , BR ,1277,0.5,638.5,32,0.4708,47.1
+1830,NORTH,gaga-br-web,LA,gaga - BR - BR - la - PUSH - id48, PUSH - id48, BR , BR ,1,0.4,0.4,0,0,0
+1830,NORTH,gaga-br-web,LA,gaga - BR - PT - la - id18, id18, PT , BR ,86,1.25,107.5,0,0,0
+1830,NORTH,gaga-br-web,LA,gaga - BR - PT - PUSH - la - id60, la - id60, PT , BR ,32,0.8,25.6,0,0,0
+1830,NORTH,gaga-br-web,SU,gaga - BR - BR - SU - id30, id30, BR , BR ,827,0.35,289.45,10,0.2449,24.5
+1830,NORTH,gaga-br-web,SU,gaga - BR - BR - su - PUSH - id31, PUSH - id31, BR , BR ,1030,0.3,309.0,8,0.1637,16.4
+1830,NORTH,gaga-br-web,VM,gaga - BR - BR - DISPLAY - VM - id104, VM - id104, BR , BR ,2,0.5,1.0,0,0,0
+1830,NORTH,gaga-br-web,VM,gaga - BR - BR - VM - id99, id99, BR , BR ,119,0.5,59.5,3,0.3452,34.5
+1830,NORTH,gaga-br-web,WM,gaga - BR - BR - wm - id95, id95, BR , BR ,1467,0.4,586.8,11,0.3768,37.7
+1830,NORTH,gaga-br-web,WM,gaga - BR - PT - wm - DISPLAY - id13, DISPLAY - id13, PT , BR ,0,0.8,0.0,0,#DIV/0!,#DIV/0!
+1830,NORTH,gaga-br-web,WM,gaga - BR - PT - wm - id12, id12, PT , BR ,48,1.25,60.0,0,0,0
+1830,NORTH,gaga-br-web,BB,gaga - BR - BR - 1232 - bb1 - id96, bb1 - id96, BR , BR ,111,0.65,72.15,3,0.2607,26.1
+1830,NORTH,gaga-br-web,BB,gaga - BR - BR - FB - bb - id91, bb - id91, BR , BR ,14871,0.12,1784.52,56,0.2722,27.2
+1830,NORTH,gaga-br-web,BB,gaga - BR - BR - PUSH - bb - id41, bb - id41, BR , BR ,356,0.3,106.8,4,0.3408,34.1
+1830,NORTH,gaga-br-web,BB,gaga - BR - BR - bb - id53, id53, BR , BR ,135,0.35,47.25,0,0,0
+1830,NORTH,gaga-br-web,BB,gaga - BR - BR - bb - id65, id65, BR , BR ,1,0.3,0.3,0,0,0
+1830,NORTH,gaga-br-web,BB,gaga - BR - BR - bb2 - id4, id4, BR , BR ,10,0.5,5.0,0,0,0
+1830,NORTH,gaga-br-web,BB,gaga - BR - BR - bb3 - id101, id101, BR , BR ,26,0.65,16.9,2,0.5485,54.9
+1830,NORTH,gaga-br-web,BB,gaga - BR - PT - bb - id11, id11, PT , BR ,165,1.25,206.25,1,0.398,39.8
+1830,NORTH,gaga-de-web,ABC,gaga - DE - DE - adc - id2, id2, DE , DE ,1890,0.65,1228.5,6,0.1476,14.8
+1830,NORTH,gaga-de-web,CA,gaga - DE - DE - ca - id7, id7, DE , DE ,7,2.2,15.4,0,0,0
+1830,NORTH,gaga-de-web,LB,gaga - DE - DE - lb - id6, id6, DE , DE ,13,2.0,26.0,0,0,0
+1830,NORTH,gaga-de-web,VM,gaga - DE - DE - VM - id27, id27, DE , DE ,419,2.5,1047.5,13,0.4131,41.3
+1830,NORTH,gaga-de-web,WM,gaga - DE - DE - WM - DISPLAY - id16, DISPLAY - id16, DE , DE ,10,1.1,11.0,1,2.4636,246.4
+1830,NORTH,gaga-de-web,WM,gaga - DE - DE - WM - id5, id5, DE , DE ,5,2.2,11.0,0,0,0
+1830,NORTH,gaga-de-web,WM,gaga - DE - DE - WM - id52, id52, DE , DE ,3,2.4,7.2,0,0,0
+1830,NORTH,gaga-de-web,BB,gaga - DE - DE - bb - CPM 1563 - id35, CPM 1563 - id35, DE , DE ,1,6.4,6.4,0,0,0
+1830,NORTH,gaga-de-web,BB,gaga - DE - DE - bb - id28, id28, DE , DE ,18,1.5,27.0,2,9.1726,917.3
+1830,NORTH,gaga-de-web,BB,gaga - DE - DE - bb1 - id3, id3, DE , DE ,62,2.5,155.0,2,0.2292,22.9
+1830,NORTH,gaga-de-web,BB,gaga - DE - DE - bb5 - id21, id21, DE , DE ,15,4.0,60.0,2,1.4953,149.5
+1830,NORTH,gaga-en-web,AZA,gaga - EN - SE - aza - id105, id105, SE , EN ,8,1.7,13.6,1,1.6912,169.1
+1830,NORTH,gaga-en-web,CA,gaga - EN - AU - ca - id25, id25, AU , EN ,7,1.2,8.4,1,1.4202,142
+1830,NORTH,gaga-en-web,EG,gaga - EN - MY - PUSH - EG - id103, EG - id103, MY , EN ,1,0.2,0.2,0,0,0
+1830,NORTH,gaga-en-web,LA,gaga - EN - NZ - la - id29, id29, NZ , EN ,20,1.8,36.0,1,0.8089,80.9
+1830,NORTH,gaga-en-web,LB,gaga - EN - AU - lb - id4, id4, AU , EN ,8,1.7,13.6,0,0,0
+1830,NORTH,gaga-en-web,WM,gaga - EN - AU - WM - Display - id8, Display - id8, AU , EN ,10,0.9,9.0,0,0,0
+1830,NORTH,gaga-en-web,WM,gaga - EN - AU - WM - id111, id111, AU , EN ,60,1.7,102.0,1,0.1136,11.4
+1830,NORTH,gaga-en-web,WM,gaga - EN - AU - WM - id7, id7, AU , EN ,115,1.5,172.5,7,1.3792,137.9
+1830,NORTH,gaga-en-web,WM,gaga - EN - ZA - WM - id10, id10, ZA , EN ,155,1.0,155.0,4,0.1667,16.7
+1830,NORTH,gaga-en-web,BB,gaga - EN - IN - bb1 - id41, id41, IN , EN ,32,0.4,12.8,0,0,0
+1830,NORTH,gaga-en-web,BB,gaga - EN - ZA - bb1 - id57, id57, ZA , EN ,27,0.7,18.9,1,1.3624,136.2
+1830,NORTH,gaga-en-web,BB,gaga - EN - ZA - bb2 - id58, id58, ZA , EN ,56,0.8,44.8,1,0.1272,12.7
+1830,NORTH,gaga-es-web,ABC,gaga - ES - CL - adc - id84, id84, CL , ES ,357,0.15,53.55,2,0.2547,25.5
+1830,NORTH,gaga-es-web,ABC,gaga - ES - MX - adc - id85, id85, MX , ES ,376,0.15,56.4,1,0.0826,8.3
+1830,NORTH,gaga-es-web,AZA,gaga - ES - CL - aza - id38, id38, CL , ES ,6,0.4,2.4,0,0,0
+1830,NORTH,gaga-es-web,CA,gaga - ES - CL - ca - id29, id29, CL , ES ,80,0.4,32.0,1,0.2522,25.2
+1830,NORTH,gaga-es-web,LA,gaga - ES - AR - la - id14, id14, AR , ES ,494,0.5,247.0,11,0.1695,17
+1830,NORTH,gaga-es-web,LA,gaga - ES - CL - la - id11, id11, CL , ES ,163,0.5,81.5,2,0.1645,16.5
+1830,NORTH,gaga-es-web,LA,gaga - ES - CL - PUSH - la - id55, la - id55, CL , ES ,54,0.4,21.6,0,0,0
+1830,NORTH,gaga-es-web,LA,gaga - ES - CO - la - id13, id13, CO , ES ,550,0.5,275.0,6,0.094,9.4
+1830,NORTH,gaga-es-web,LA,gaga - ES - MX - la - id10, id10, MX , ES ,588,0.5,294.0,11,0.3956,39.6
+1830,NORTH,gaga-es-web,LA,gaga - ES - PE - la - id12, id12, PE , ES ,748,0.5,374.0,12,0.3012,30.1
+1830,NORTH,gaga-es-web,LB,gaga - ES - ES - lb1 - id88, id88, ES , ES ,1,1.25,1.25,0,0,0
+1830,NORTH,gaga-es-web,WM,gaga - ES - CL - DISPLAY - WM - id42, WM - id42, CL , ES ,53,0.3,15.9,0,0,0
+1830,NORTH,gaga-es-web,WM,gaga - ES - MX - DISPLAY - WM - id41, WM - id41, MX , ES ,31,0.3,9.3,0,0,0
+1830,NORTH,gaga-es-web,BB,gaga - ES - CL - bb - FB - id90, FB - id90, CL , ES ,4597,0.14,643.58,11,0.2054,20.5
+1830,NORTH,gaga-es-web,BB,gaga - ES - ES - bb - id22, id22, ES , ES ,1,1.25,1.25,0,0,0
+1830,NORTH,gaga-es-web,BB,gaga - ES - MX - bb - FB - id91, FB - id91, MX , ES ,10962,0.14,1534.68,47,0.3626,36.3
+1830,NORTH,gaga-es-web,BB,gaga - ES - MX - bb - id6, id6, MX , ES ,312,0.5,156.0,2,0.117,11.7
+1830,NORTH,gaga-es-web,BB,gaga - ES - PE - bb - FB - id92, FB - id92, PE , ES ,4168,0.14,583.52,7,0.137,13.7
+1830,NORTH,gaga-fr-web,ABC,gaga - FR - FR - adc - id35, id35, FR , FR ,8005,0.2,1601.0,4,0.1389,13.9
+1830,NORTH,gaga-fr-web,AZA,gaga - FR - FR - aza - id37, id37, FR , FR ,19,1.5,28.5,0,0,0
+1830,NORTH,gaga-fr-web,EG,gaga - FR - FR - Display - EG - id56, EG - id56, FR , FR ,112,1.3,145.6,0,0,0
+1830,NORTH,gaga-fr-web,LA,gaga - FR - BE - la - id31, id31, BE , FR ,58,1.5,87.0,1,0.206,20.6
+1830,NORTH,gaga-fr-web,SZ,gaga - FR - FR - sz - LP2 - id58, LP2 - id58, FR , FR ,181,1.5,271.5,0,0,0
+1830,NORTH,gaga-fr-web,SZ,gaga - FR - FR - sz - id15, id15, FR , FR ,13,1.5,19.5,0,0,0
+1830,NORTH,gaga-fr-web,SZ,gaga - FR - FR - sz, sz, FR , FR ,64,1.65,105.6,0,0,0
+1830,NORTH,gaga-fr-web,VM,gaga - FR - BEFR - VM - id40, id40, BEFR , FR ,14,1.5,21.0,0,0,0
+1830,NORTH,gaga-fr-web,WG,gaga - FR - FR - WG - id6, id6, FR , FR ,404,1.5,606.0,3,0.0859,8.6
+1830,NORTH,gaga-fr-web,WM,gaga - FR - FR - WM - DISPLAY - id13, DISPLAY - id13, FR , FR ,1308,1.3,1700.4,4,0.0808,8.1
+1830,NORTH,gaga-it-web,ABC,gaga - IT - IT - adc - id8, id8, IT , IT ,756,0.39,294.84,2,0.2185,21.8
+1830,NORTH,gaga-it-web,ABS,gaga - IT - IT - ADS - id9, id9, IT , IT ,3,1.6,4.8,0,0,0
+1830,NORTH,gaga-it-web,AZA,gaga - IT - IT - aza - id12, id12, IT , IT ,20,1.5,30.0,1,0.609,60.9
+1830,NORTH,gaga-it-web,LB,gaga - IT - IT - lb1 - id32, id32, IT , IT ,23,1.5,34.5,2,2.1458,214.6
+1830,NORTH,gaga-it-web,NT,gaga - IT - IT - NT - id34, id34, IT , IT ,413,1.45,666.4,8,0.2763,27.6
+1830,NORTH,gaga-it-web,WM,gaga - IT - IT - DISPLAY - WM - id33, WM - id33, IT , IT ,0,1.0,0.0,0,#DIV/0!,#DIV/0!
+1830,NORTH,gaga-it-web,BB,gaga - IT - IT - bb2 - id5, id5, IT , IT ,4,1.5,6.0,0,0,0
+1830,NORTH,gaga-nl-web,EG,gaga - NL - BENL - EG - id32, id32, BENL , NL ,1,2.0,2.0,0,0,0
+1830,NORTH,gaga-nl-web,LA,gaga - NL - BE - la - id9, id9, BE , NL ,16,2.0,32.0,0,0,0
+1830,NORTH,gaga-nl-web,LA,gaga - NL - NL - la - id8, id8, NL , NL ,20,2.0,40.0,0,0,0
+1830,NORTH,gaga-nl-web,LB,gaga - NL - BE - lb - id5, id5, BE , NL ,10,2.0,20.0,0,0,0
+1830,NORTH,gaga-nl-web,LB,gaga - NL - NL - lb - id4, id4, NL , NL ,12,2.0,24.0,0,0,0
+1830,NORTH,gaga-nl-web,VM,gaga - NL - BE - VM - id10, id10, BE , NL ,187,2.0,374.0,5,0.6835,68.4
+1830,NORTH,gaga-nl-web,VM,gaga - NL - NL - VM - id29, id29, NL , NL ,69,2.0,138.0,3,0.512,51.2
+1830,NORTH,gaga-nl-web,BB,gaga - NL - BE - bb - id3, id3, BE , NL ,5,2.0,10.0,0,0,0
+1830,NORTH,gaga-nl-web,BB,gaga - NL - NL - bb - id2, id2, NL , NL ,83,2.0,166.0,3,0.9672,96.7
+1830,NORTH,bianca-br-web,ABC,bianca - BR - BR - adc - id109, id109, BR , BR ,18003,0.25,4500.75,141,0.2572,25.7
+1830,NORTH,bianca-br-web,AZA,bianca - BR - BR - aza - id100, id100, BR , BR ,1060,0.45,477.0,20,0.4392,43.9
+1830,NORTH,bianca-br-web,AZA,bianca - BR - BR - aza Display - id101, id101, BR , BR ,851,0.4,340.4,2,0.0425,4.2
+1830,NORTH,bianca-br-web,AZA,bianca - BR - BR - aza Push - id102, id102, BR , BR ,10562,0.35,3696.7,139,0.3401,34
+1830,NORTH,bianca-br-web,CA,bianca - BR - PT - ca - id128, id128, PT , BR ,314,1.4,439.6,5,0.7548,75.5
+1830,NORTH,bianca-br-web,LA,bianca - BR - BR - la - id106, id106, BR , BR ,1244,0.65,808.6,33,0.4543,45.4
+1830,NORTH,bianca-br-web,LA,bianca - BR - BR - PUSH - la - id138, la - id138, BR , BR ,2,0.4,0.8,0,0,0
+1830,NORTH,bianca-br-web,LA,bianca - BR - PT - PUSH - la - id139, la - id139, PT , BR ,64,0.8,51.2,0,0,0
+1830,NORTH,bianca-br-web,SU,bianca - BR - BR - SU - id123, id123, BR , BR ,2217,0.45,997.65,16,0.1548,15.5
+1830,NORTH,bianca-br-web,SU,bianca - BR - BR - SU - PUSH - id124, PUSH - id124, BR , BR ,2793,0.35,977.55,25,0.215,21.5
+1830,NORTH,bianca-br-web,VM,bianca - BR - BR - VM - id171, id171, BR , BR ,1,0.5,0.5,0,0,0
+1830,NORTH,bianca-br-web,WM,bianca - BR - BR - wm - Display - id87, Display - id87, BR , BR ,375,0.4,150.0,9,0.5437,54.4
+1830,NORTH,bianca-br-web,WM,bianca - BR - BR - wm - id84, id84, BR , BR ,938,0.65,609.7,12,0.2019,20.2
+1830,NORTH,bianca-br-web,WM,bianca - BR - BR - wm - PUSH - id145, PUSH - id145, BR , BR ,11,0.4,4.4,0,0,0
+1830,NORTH,bianca-br-web,BB,bianca - BR - BR - bb - 1232 - id115, 1232 - id115, BR , BR ,31,0.75,23.25,2,0.5475,54.8
+1830,NORTH,bianca-br-web,BB,bianca - BR - BR - bb - FB2 - id177, FB2 - id177, BR , BR ,5319,0.2,1063.8,36,0.3067,30.7
+1830,NORTH,bianca-br-web,BB,bianca - BR - BR - bb - id135, id135, BR , BR ,142,0.4,56.8,3,0.4778,47.8
+1830,NORTH,bianca-br-web,BB,bianca - BR - BR - bb - id144, id144, BR , BR ,483,0.3,144.9,7,0.5558,55.6
+1830,NORTH,bianca-br-web,BB,bianca - BR - BR - bb - id146, id146, BR , BR ,110,0.75,82.5,1,0.0994,9.9
+1830,NORTH,bianca-br-web,BB,bianca - BR - BR - bb1 - id132, id132, BR , BR ,69,0.5,34.5,1,0.1357,13.6
+1830,NORTH,bianca-br-web,BB,bianca - BR - BR - bb2 - id80, id80, BR , BR ,655,0.65,425.75,8,0.2382,23.8
+1830,NORTH,bianca-br-web,BB,bianca - BR - BR - bb5 - id178, id178, BR , BR ,1244,0.9,1119.6,38,0.3121,31.2
+1830,NORTH,bianca-br-web,BB,bianca - BR - PT - bb - id93, id93, PT , BR ,209,1.4,292.6,2,0.1548,15.5
+1830,NORTH,bianca-de-web,ABC,bianca - DE - DE - adc - id118, id118, DE , DE ,1439,1.1,1582.9,5,0.1269,12.7
+1830,NORTH,bianca-de-web,AZA,bianca - DE - DE - aza - id121, id121, DE , DE ,34,2.5,85.0,1,0.8576,85.8
+1830,NORTH,bianca-de-web,CA,bianca - DE - DE - ca - id140, id140, DE , DE ,7,2.2,15.4,0,0,0
+1830,NORTH,bianca-de-web,LB,bianca - DE - DE - lb - id119, id119, DE , DE ,8,2.0,16.0,0,0,0
+1830,NORTH,bianca-de-web,WM,bianca - DE - DE - WM - Display - id125, Display - id125, DE , DE ,0,1.3,0.0,0,0,0
+1830,NORTH,bianca-de-web,WM,bianca - DE - DE - WM - id116, id116, DE , DE ,8,2.5,20.0,0,0,0
+1830,NORTH,bianca-de-web,BB,bianca - DE - DE - bb - id152, id152, DE , DE ,20,4.5,90.0,0,0,0
+1830,NORTH,bianca-de-web,BB,bianca - DE - DE - bb1 - id81, id81, DE , DE ,74,2.5,185.0,0,0,0
+1830,NORTH,bianca-de-web,BB,bianca - DE - DE - bb3 - id83, id83, DE , DE ,24,3.0,72.0,1,1.259,125.9
+1830,NORTH,bianca-en-web,ABC,bianca - EN - AU - adc - id89, id89, AU , EN ,2911,0.55,1601.05,8,0.1731,17.3
+1830,NORTH,bianca-en-web,ABC,bianca - EN - ZA - adc - id96, id96, ZA , EN ,4651,0.27,1255.77,49,0.6539,65.4
+1830,NORTH,bianca-en-web,AZA,bianca - EN - FI - aza - id157, id157, FI , EN ,9,1.7,15.3,0,0,0
+1830,NORTH,bianca-en-web,AZA,bianca - EN - SE - aza - id156, id156, SE , EN ,16,1.7,27.2,1,3.8779,387.8
+1830,NORTH,bianca-en-web,EG,bianca - EN - MY - PUSH - EG - id66, EG - id66, MY , EN ,62,0.2,12.4,0,0,0
+1830,NORTH,bianca-en-web,LA,bianca - EN - ZA - la - id148, id148, ZA , EN ,56,0.7,39.2,4,1.4577,145.8
+1830,NORTH,bianca-en-web,LB,bianca - EN - AU - lb - id90, id90, AU , EN ,2,1.8,3.6,0,0,0
+1830,NORTH,bianca-en-web,LM,bianca - EN - ZA - LM - id136, id136, ZA , EN ,100,1.1,110.0,1,0.1312,13.1
+1830,NORTH,bianca-en-web,SU,bianca - EN - ZA - SU - id143, id143, ZA , EN ,8,0.9,7.2,0,0,0
+1830,NORTH,bianca-en-web,TV,bianca - EN - AU - TVF - id101, id101, AU , EN ,13,2.0,26.0,0,0,0
+1830,NORTH,bianca-en-web,TV,bianca - EN - ZA - TVF - id111, id111, ZA , EN ,176,0.7,123.2,1,0.1156,11.6
+1830,NORTH,bianca-en-web,WM,bianca - EN - AU - wm - Display - id81, Display - id81, AU , EN ,58,1.1,63.8,1,0.756,75.6
+1830,NORTH,bianca-en-web,WM,bianca - EN - AU - wm - id73, id73, AU , EN ,1,1.7,1.7,0,0,0
+1830,NORTH,bianca-en-web,WM,bianca - EN - AU - WM - External LP - id118, External LP - id118, AU , EN ,8,1.7,13.6,0,0,0
+1830,NORTH,bianca-en-web,WM,bianca - EN - ZA - wm - Display - id104, Display - id104, ZA , EN ,155,0.7,108.5,2,0.2885,28.8
+1830,NORTH,bianca-en-web,WM,bianca - EN - ZA - wm - id74, id74, ZA , EN ,40,1.2,48.0,1,0.4227,42.3
+1830,NORTH,bianca-en-web,BB,bianca - EN - AU - bb2 - id100, id100, AU , EN ,202,2.0,404.0,7,0.6146,61.5
+1830,NORTH,bianca-en-web,BB,bianca - EN - IN - bb1 - id128, id128, IN , EN ,21,0.4,8.4,0,0,0
+1830,NORTH,bianca-en-web,BB,bianca - EN - ZA - bb - id160, id160, ZA , EN ,48,0.75,36.0,1,0.155,15.5
+1830,NORTH,bianca-en-web,BB,bianca - EN - ZA - bb1 - id82, id82, ZA , EN ,1,0.7,0.7,0,0,0
+1830,NORTH,bianca-es-web,AZA,bianca - ES - ES - aza - id188, id188, ES , ES ,21,1.25,26.25,1,0.696,69.6
+1830,NORTH,bianca-es-web,CA,bianca - ES - CL - ca - id167, id167, CL , ES ,69,0.4,27.6,1,0.996,99.6
+1830,NORTH,bianca-es-web,CA,bianca - ES - ES - ca - id211, id211, ES , ES ,291,1.2,349.2,4,0.2616,26.2
+1830,NORTH,bianca-es-web,CA,bianca - ES - MX - ca - id210, id210, MX , ES ,645,0.4,258.0,5,0.1151,11.5
+1830,NORTH,bianca-es-web,EG,bianca - ES - ES - DISPLAY - EG - 199, EG - 199, ES , ES ,114,0.8,91.2,1,0.2003,20
+1830,NORTH,bianca-es-web,EG,bianca - ES - ES - EG - id220, id220, ES , ES ,4,1.2,4.8,0,0,0
+1830,NORTH,bianca-es-web,EG,bianca - ES - ES - PUSH - EG - id200, EG - id200, ES , ES ,188,0.8,150.4,1,0.1215,12.1
+1830,NORTH,bianca-es-web,LA,bianca - ES - CL - la - id115, id115, CL , ES ,209,0.65,135.85,6,0.4404,44
+1830,NORTH,bianca-es-web,LA,bianca - ES - CL - PUSH - la - id186, la - id186, CL , ES ,45,0.4,18.0,1,1.5267,152.7
+1830,NORTH,bianca-es-web,LA,bianca - ES - ES - la - id216, id216, ES , ES ,34,1.2,40.8,0,0,0
+1830,NORTH,bianca-es-web,LA,bianca - ES - MX - la - id114, id114, MX , ES ,40,0.5,20.0,2,0.456,45.6
+1830,NORTH,bianca-es-web,LA,bianca - ES - PE - la - id201, id201, PE , ES ,55,0.5,27.5,3,0.9753,97.5
+1830,NORTH,bianca-es-web,NT,bianca - ES - ES - NT - id215, id215, ES , ES ,128,1.18,149.85,0,0,0
+1830,NORTH,bianca-es-web,SU,bianca - ES - AR - SU - id163, id163, AR , ES ,1,0.35,0.35,0,0,0
+1830,NORTH,bianca-es-web,SU,bianca - ES - CO - SU - id177, id177, CO , ES ,5,0.35,1.75,0,0,0
+1830,NORTH,bianca-es-web,SU,bianca - ES - MX - SU - id164, id164, MX , ES ,2,0.35,0.7,0,0,0
+1830,NORTH,bianca-es-web,TV,bianca - ES - ES - TVF - id141, id141, ES , ES ,47,1.3,61.1,0,0,0
+1830,NORTH,bianca-es-web,WG,bianca - ES - ES - WG - id94, id94, ES , ES ,99,1.45,143.55,0,0,0
+1830,NORTH,bianca-es-web,WG,bianca - ES - MX - DISPLAY - WG - id212, WG - id212, MX , ES ,122,0.4,48.8,0,0,0
+1830,NORTH,bianca-es-web,WG,bianca - ES - MX - WG - id103, id103, MX , ES ,108,0.5,54.0,0,0,0
+1830,NORTH,bianca-es-web,WM,bianca - ES - CL - DISPLAY - WM - id181, WM - id181, CL , ES ,43,0.3,12.9,2,0.8364,83.6
+1830,NORTH,bianca-es-web,WM,bianca - ES - MX - wm - Display - id101, Display - id101, MX , ES ,283,0.3,84.9,3,0.2578,25.8
+1830,NORTH,bianca-es-web,BB,bianca - ES - AR - bb - id81, id81, AR , ES ,257,0.65,167.05,3,0.0553,5.5
+1830,NORTH,bianca-es-web,BB,bianca - ES - AR - bb - Lower - id128, Lower - id128, AR , ES ,242,0.4,96.8,6,0.3038,30.4
+1830,NORTH,bianca-es-web,BB,bianca - ES - CL - bb Lower - id127, id127, CL , ES ,4,0.4,1.6,0,0,0
+1830,NORTH,bianca-es-web,BB,bianca - ES - MX - bb - id77, id77, MX , ES ,299,0.65,194.35,2,0.071,7.1
+1830,NORTH,bianca-es-web,BB,bianca - ES - MX - bb Lower - id133, id133, MX , ES ,300,0.4,120.0,0,0,0
+1830,NORTH,bianca-fr-web,LB,bianca - FR - BE - lb - id258, id258, BE , FR ,41,1.5,61.5,0,0,0
+1830,NORTH,bianca-fr-web,BB,bianca - FR - BE - bb - id285, id285, BE , FR ,173,1.5,259.5,1,0.0727,7.3
+1830,NORTH,bianca-fr-web,BB,bianca - FR - FR - bb - id286, id286, FR , FR ,204,1.5,306.0,0,0,0
+1830,NORTH,bianca-it-web,ABS,bianca - IT - IT - ADS - id133, id133, IT , IT ,75,1.6,120.0,0,0,0
+1830,NORTH,bianca-it-web,AZA,bianca - IT - IT - aza - id140, id140, IT , IT ,24,1.5,36.0,0,0,0
+1830,NORTH,bianca-it-web,LB,bianca - IT - IT - lb - id135, id135, IT , IT ,1,1.0,1.0,0,0,0
+1830,NORTH,bianca-it-web,LB,bianca - IT - IT - lb1 - id142, id142, IT , IT ,30,1.5,45.0,0,0,0
+1830,NORTH,bianca-it-web,BB,bianca - IT - IT - bb - id143, id143, IT , IT ,88,1.2,105.6,0,0,0
+1830,NORTH,bianca-nl-web,EG,bianca - NL - BENL - PUSH - EG - id162, EG - id162, BENL , NL ,1,5.0,5.0,0,0,0
+1830,NORTH,bianca-nl-web,EG,bianca - NL - BENL - PUSH - EG - id164, EG - id164, BENL , NL ,33,2.2,72.6,1,0.4937,49.4
+1830,NORTH,bianca-nl-web,LA,bianca - NL - BENL - la - id134, id134, BENL , NL ,9,2.0,18.0,0,0,0
+1830,NORTH,bianca-nl-web,LA,bianca - NL - NL - la - id133, id133, NL , NL ,5,2.0,10.0,0,0,0
+1830,NORTH,bianca-nl-web,LB,bianca - NL - BENL - lb - id136, id136, BENL , NL ,11,2.0,22.0,1,0.8145,81.5
+1830,NORTH,bianca-nl-web,LB,bianca - NL - NL - lb - id135, id135, NL , NL ,10,2.0,20.0,1,1.8395,184
+1830,NORTH,bianca-nl-web,VM,bianca - NL - BE - VM - id139, id139, BE , NL ,51,2.0,102.0,2,0.4391,43.9
+1830,NORTH,bianca-nl-web,VM,bianca - NL - NL - VM - id147, id147, NL , NL ,23,2.0,46.0,1,0.5785,57.8
+1830,NORTH,bianca-nl-web,BB,bianca - NL - BE/NL - bb - id132, id132, BE/NL , NL ,235,2.5,587.5,1,0.2971,29.7
+1830,NORTH,bianca-nl-web,BB,bianca - NL - NL - bb - id131, id131, NL , NL ,45,2.5,112.5,0,0,0
+1830,NORTH,cordon-br-db-2,CA,cordon - BR - PT - ca - id100, id100, PT , BR ,1,1.4,1.4,0,0,0
+1830,NORTH,cordon-br-db-2,SU,cordon - BR - BR - SU - id96, id96, BR , BR ,1137,0.35,397.95,6,0.1604,16
+1830,NORTH,cordon-br-db-2,WM,cordon - BR - BR - wm - PUSH - id97, PUSH - id97, BR , BR ,1,0.3,0.3,0,0,0
+1830,NORTH,cordon-br-db-2,WM,cordon - BR - PT - wm - id62, id62, PT , BR ,64,1.45,92.8,0,0,0
+1830,NORTH,cordon-br-db-2,BB,cordon - BR - BR - 1232 - bb - id111, bb - id111, BR , BR ,28,0.75,21.0,0,0,0
+1830,NORTH,cordon-br-db-2,BB,cordon - BR - BR - bb1 - id104, id104, BR , BR ,2,0.4,0.8,0,0,0
+1830,NORTH,cordon-br-db-2,BB,cordon - BR - BR - bb2 - id86, id86, BR , BR ,1010,0.5,505.0,11,0.152,15.2
+1830,NORTH,cordon-br-db-2,BB,cordon - BR - BR - bb3 - id107, id107, BR , BR ,866,0.55,476.3,13,0.2613,26.1
+1830,NORTH,cordon-br-db-2,BB,cordon - BR - BR - bb4 - id10, id10, BR , BR ,721,0.65,468.65,20,0.4292,42.9
+1830,NORTH,cordon-de-web,CA,cordon - DE - DE - ca - id137, id137, DE , DE ,22,2.2,48.4,0,0,0
+1830,NORTH,cordon-de-web,LB,cordon - DE - DE - lb - id118, id118, DE , DE ,15,2.0,30.0,0,0,0
+1830,NORTH,cordon-de-web,WM,cordon - DE - DE - wm - id92, id92, DE , DE ,31,2.5,77.5,2,1.0372,103.7
+1830,NORTH,cordon-de-web,WM,cordon - DE - DE - WM - Display - id121, Display - id121, DE , DE ,22,1.0,22.0,0,0,0
+1830,NORTH,cordon-de-web,WM,cordon - DE - DE - WM - id140, id140, DE , DE ,60,2.6,156.0,0,0,0
+1830,NORTH,cordon-en-db,AZA,cordon - EN - ZA - aza - id111, id111, ZA , EN ,114,1.0,114.0,0,0,0
+1830,NORTH,cordon-en-db,CA,cordon - EN - AU - ca - id139, id139, AU , EN ,10,1.2,12.0,0,0,0
+1830,NORTH,cordon-en-db,LA,cordon - EN - NZ - la - id126, id126, NZ , EN ,24,1.85,44.4,1,0.3863,38.6
+1830,NORTH,cordon-en-db,LB,cordon - EN - AU - lb - id100, id100, AU , EN ,3,1.75,5.25,0,0,0
+1830,NORTH,cordon-en-db,WM,cordon - EN - AU - wm - Display - id82, Display - id82, AU , EN ,24,1.1,26.4,0,0,0
+1830,NORTH,cordon-en-db,WM,cordon - EN - AU - wm - id76, id76, AU , EN ,100,1.2,120.0,1,0.3047,30.5
+1830,NORTH,cordon-en-db,WM,cordon - EN - IN - wm - DISPLAY - id137, DISPLAY - id137, IN , EN ,300,0.2,60.0,0,0,0
+1830,NORTH,cordon-en-db,WM,cordon - EN - ZA - wm - id77, id77, ZA , EN ,146,1.2,175.2,1,0.0332,3.3
+1830,NORTH,cordon-en-db,BB,cordon - EN - IN - bb1 - id151, id151, IN , EN ,60,0.35,21.0,0,0,0
+1830,NORTH,cordon-en-db,BB,cordon - EN - ZA - bb - id157, id157, ZA , EN ,24,0.7,16.8,0,0,0
+1830,NORTH,cordon-en-db,BB,cordon - EN - ZA - bb1 - id81, id81, ZA , EN ,83,1.0,83.0,3,0.4166,41.7
+1830,NORTH,cordon-it-web,ABC,cordon - IT - IT - adc - id45, id45, IT , IT ,1254,0.39,489.06,7,0.4738,47.4
+1830,NORTH,cordon-it-web,LB,cordon - IT - IT - lb - id16, id16, IT , IT ,6,0.6,3.6,0,0,0
+1830,NORTH,cordon-it-web,WG,cordon - IT - IT - WG - id46, id46, IT , IT ,64,1.4,89.6,0,0,0
+1830,NORTH,cordon-nl-web,LB,cordon - NL - BE - lb - id24, id24, BE , NL ,12,2.1,25.2,0,0,0
+1830,NORTH,cordon-nl-web,VM,cordon - NL - BE - VM - id40, id40, BE , NL ,41,2.0,82.0,1,0.5638,56.4
+1830,NORTH,cordon-nl-web,VM,cordon - NL - NL - VM - id49, id49, NL , NL ,28,2.0,56.0,0,0,0
+1830,NORTH,gordon-br-web,ABC,gordon - BR - BR - adc - id2, id2, BR , BR ,990,0.25,247.5,6,0.2085,20.9
+1830,NORTH,gordon-br-web,AZA,gordon - BR - BR - aza, aza, BR , BR ,230,0.4,92.0,4,0.4253,42.5
+1830,NORTH,gordon-br-web,AZA,gordon - BR - BR - PUSH - aza - id4, aza - id4, BR , BR ,238,0.35,83.3,0,0,0
+1830,NORTH,gordon-br-web,LA,gordon - BR - PT - la - id23, id23, PT , BR ,117,1.25,146.25,0,0,0
+1830,NORTH,gordon-br-web,LA,gordon - BR - BR - la - id3, id3, BR , BR ,1765,0.5,882.5,52,0.517,51.7
+1830,NORTH,gordon-br-web,LA,gordon - BR - PT - PUSH - la - id43, la - id43, PT , BR ,39,0.8,31.2,0,0,0
+1830,NORTH,gordon-br-web,SU,gordon - BR - BR - SU - id5, id5, BR , BR ,635,0.4,254.0,5,0.1999,20
+1830,NORTH,gordon-br-web,WM,gordon - BR - BR - PUSH - WM - id49, WM - id49, BR , BR ,236,0.3,70.8,1,0.0739,7.4
+1830,NORTH,gordon-br-web,WM,gordon - BR - BR - WM - id29, id29, BR , BR ,1505,0.5,752.5,20,0.2659,26.6
+1830,NORTH,gordon-br-web,WM,gordon - BR - PT - DISPLAY - WM - id26, WM - id26, PT , BR ,86,0.8,68.8,0,0,0
+1830,NORTH,gordon-br-web,BB,gordon - BR - BR - FB - bb - id41, bb - id41, BR , BR ,18,0.2,3.6,0,0,0
+1830,NORTH,gordon-br-web,BB,gordon - BR - BR - FB - bb - id57, bb - id57, BR , BR ,3,0.12,0.36,0,0,0
+1830,NORTH,gordon-br-web,BB,gordon - BR - BR - FB1 - bb - id47, bb - id47, BR , BR ,9801,0.12,1176.12,24,0.1791,17.9
+1830,NORTH,gordon-br-web,BB,gordon - BR - BR - bb1 - 1232 - id54, 1232 - id54, BR , BR ,95,1.1,104.5,2,0.1873,18.7
+1830,NORTH,gordon-br-web,BB,gordon - BR - BR - bb1 - id7, id7, BR , BR ,93,0.5,46.5,0,0,0
+1830,NORTH,gordon-br-web,BB,gordon - BR - BR - bb2 - id27, id27, BR , BR ,947,0.65,615.55,15,0.3485,34.8
+1830,NORTH,gordon-br-web,BB,gordon - BR - PT - bb - id22, id22, PT , BR ,432,1.25,540.0,6,1.0515,105.2
+1830,NORTH,gordon-de-web,CA,gordon - DE - DE - ca - id56, id56, DE , DE ,43,2.2,94.6,2,0.6756,67.6
+1830,NORTH,gordon-de-web,LB,gordon - DE - DE - lb - id55, id55, DE , DE ,12,2.0,24.0,0,0,0
+1830,NORTH,gordon-de-web,VM,gordon - DE - DE - VM - id77, id77, DE , DE ,1,2.5,2.5,0,0,0
+1830,NORTH,gordon-de-web,WM,gordon - DE - DE - DISPLAY - WM - id63, WM - id63, DE , DE ,42,1.3,54.6,0,0,0
+1830,NORTH,gordon-de-web,WM,gordon - DE - DE - WM - id58, id58, DE , DE ,27,2.0,54.0,0,0,0
+1830,NORTH,gordon-de-web,WM,gordon - DE - DE - WM - id79, id79, DE , DE ,40,2.4,96.0,0,0,0
+1830,NORTH,gordon-de-web,BB,gordon - DE - DE - bb - id59, id59, DE , DE ,2,2.5,5.0,0,0,0
+1830,NORTH,gordon-en-web,ABC,gordon - EN - AU - adc - id14, id14, AU , EN ,3586,0.55,1972.3,12,0.2483,24.8
+1830,NORTH,gordon-en-web,ABC,gordon - EN - ZA - adc - id22, id22, ZA , EN ,4944,0.27,1334.88,23,0.3478,34.8
+1830,NORTH,gordon-en-web,CA,gordon - EN - AU - ca - id3, id3, AU , EN ,8,1.7,13.6,0,0,0
+1830,NORTH,gordon-en-web,LA,gordon - EN - ZA - la - id28, id28, ZA , EN ,337,0.7,235.9,4,0.0973,9.7
+1830,NORTH,gordon-en-web,WM,gordon - EN - AU - WM - DISPLAY - id9, DISPLAY - id9, AU , EN ,35,0.9,31.5,0,0,0
+1830,NORTH,gordon-en-web,WM,gordon - EN - AU - WM - id48, id48, AU , EN ,27,1.8,48.6,0,0,0
+1830,NORTH,gordon-en-web,WM,gordon - EN - AU - WM - id8, id8, AU , EN ,33,1.7,56.1,0,0,0
+1830,NORTH,gordon-en-web,WM,gordon - EN - ZA - WM - id11, id11, ZA , EN ,22,1.0,22.0,0,0,0
+1830,NORTH,gordon-en-web,BB,gordon - EN - ZA - bb - id10, id10, ZA , EN ,57,0.7,39.9,4,0.994,99.4
+1830,NORTH,gordon-es-web,ABC,gordon - ES - CL - adc - id45, id45, CL , ES ,352,0.15,52.8,1,0.1998,20
+1830,NORTH,gordon-es-web,ABC,gordon - ES - MX - adc - id46, id46, MX , ES ,344,0.15,51.6,1,0.1149,11.5
+1830,NORTH,gordon-es-web,AZA,gordon - ES - MX - aza - id41, id41, MX , ES ,146,0.4,58.4,1,0.0711,7.1
+1830,NORTH,gordon-es-web,LA,gordon - ES - CL - la - id2, id2, CL , ES ,125,0.5,62.5,2,0.1352,13.5
+1830,NORTH,gordon-es-web,LA,gordon - ES - CL - PUSH - la - id22, la - id22, CL , ES ,67,0.4,26.8,1,0.1563,15.6
+1830,NORTH,gordon-es-web,LA,gordon - ES - MX - PUSH - la - id40, la - id40, MX , ES ,228,0.4,91.2,0,0,0
+1830,NORTH,gordon-es-web,LA,gordon - ES - PE - la - id4, id4, PE , ES ,112,0.5,56.0,0,0,0
+1830,NORTH,gordon-es-web,LB,gordon - ES - ES - lb - id44, id44, ES , ES ,58,1.0,58.0,0,0,0
+1830,NORTH,gordon-es-web,SU,gordon - ES - AR - SU - id30, id30, AR , ES ,3,0.3,0.9,0,0,0
+1830,NORTH,gordon-es-web,SU,gordon - ES - MX - SU - id31, id31, MX , ES ,1,0.3,0.3,0,0,0
+1830,NORTH,gordon-es-web,TV,gordon - ES - ES - TVF - id39, id39, ES , ES ,159,1.2,190.8,0,0,0
+1830,NORTH,gordon-es-web,BB,gordon - ES - AR - bb - id25, id25, AR , ES ,209,0.5,104.5,0,0,0
+1830,NORTH,gordon-es-web,BB,gordon - ES - CL - bb - id38, id38, CL , ES ,2,0.4,0.8,0,0,0
+1830,NORTH,gordon-es-web,BB,gordon - ES - CO - bb - id5, id5, CO , ES ,1,0.5,0.5,0,0,0
+1830,NORTH,gordon-es-web,BB,gordon - ES - MX - bb - id26, id26, MX , ES ,706,0.5,353.0,4,0.0809,8.1
+1830,NORTH,gordon-it-web,ABC,gordon - IT - IT - adc - id11, id11, IT , IT ,487,0.39,189.93,3,0.5366,53.7
+1830,NORTH,gordon-it-web,ABS,gordon - IT - IT - ADS - id8, id8, IT , IT ,90,1.5,135.0,2,0.2687,26.9
+1830,NORTH,gordon-it-web,AZA,gordon - IT - IT - aza - id7, id7, IT , IT ,28,1.5,42.0,1,1.0988,109.9
+1830,NORTH,gordon-it-web,LB,gordon - IT - IT - lb - id5, id5, IT , IT ,37,1.0,37.0,0,0,0
+1830,NORTH,gordon-it-web,WG,gordon - IT - IT - WG - id9, id9, IT , IT ,37,1.4,51.8,0,0,0
+1830,NORTH,gordon-it-web,WM,gordon - IT - IT - DISPLAY - WM - id13, WM - id13, IT , IT ,168,1.0,168.0,0,0,0
+1830,NORTH,gordon-it-web,WM,gordon - IT - IT - WM - id10, id10, IT , IT ,87,1.4,121.8,5,1.1368,113.7
+1830,NORTH,gordon-it-web,BB,gordon - IT - IT - bb - id6, id6, IT , IT ,11,1.3,14.3,0,0,0
+1830,NORTH,gordon-nl-web,LA,gordon - NL - BENL - la - id3, id3, BENL , NL ,3,2.0,6.0,0,0,0
+1830,NORTH,gordon-nl-web,LB,gordon - NL - BENL - lb - id5, id5, BENL , NL ,13,2.0,26.0,1,0.6892,68.9
+1830,NORTH,gordon-nl-web,BB,gordon - NL - NL - bb -id8,id8, NL , NL ,1,2.5,2.5,0,0,0
+1830,SOUTH,alba-br-dxp-web,ABC,alba - BR - BR - adc - id44, id44, BR , BR ,5588,0.25,1397.0,42,0.1848,18.5
+1830,SOUTH,alba-br-dxp-web,ABC,alba - BR - PT - adc - id55, id55, PT , BR ,1272,0.5,636.0,3,0.1439,14.4
+1830,SOUTH,alba-br-dxp-web,AZA,alba - BR - BR - aza Email - id27, id27, BR , BR ,263,0.4,105.2,1,0.0449,4.5
+1830,SOUTH,alba-br-dxp-web,LA,alba - BR - BR - la - id22, id22, BR , BR ,5521,0.5,2760.5,112,0.3408,34.1
+1830,SOUTH,alba-br-dxp-web,SU,alba - BR - BR - su - PUSH - id43, PUSH - id43, BR , BR ,1,0.3,0.3,0,0,0
+1830,SOUTH,alba-br-dxp-web,SU,alba - BR - BR - SU - id42, id42, BR , BR ,1051,0.4,420.4,10,0.1757,17.6
+1830,SOUTH,alba-br-dxp-web,SU,alba - BR - BR - SU - id49, id49, BR , BR ,1,0.4,0.4,0,0,0
+1830,SOUTH,alba-br-dxp-web,WM,alba - BR - BR - WM Display - id26, id26, BR , BR ,5,0.3,1.5,0,0,0
+1830,SOUTH,alba-br-dxp-web,BB,alba - BR - BR - bb - 1232 - id48, 1232 - id48, BR , BR ,3,0.5,1.5,0,0,0
+1830,SOUTH,alba-br-dxp-web,BB,alba - BR - BR - bb - id56, id56, BR , BR ,626,0.4,250.4,5,0.1123,11.2
+1830,SOUTH,alba-br-dxp-web,BB,alba - BR - BR - bb1- id45, id45, BR , BR ,8327,0.3,2498.1,145,0.4906,49.1
+1830,SOUTH,alba-br-dxp-web,BB,alba - BR - BR - bb2 - id21, id21, BR , BR ,759,0.5,379.5,21,0.4131,41.3
+1830,SOUTH,alba-br-dxp-web,BB,alba - BR - BR - bb4 - id47, id47, BR , BR ,51,0.75,38.25,2,0.5349,53.5
+1830,SOUTH,alba-en-dxp-web,ABC,alba - EN - AU - adc - id14, id14, AU , EN ,3722,0.55,2047.1,19,0.2457,24.6
+1830,SOUTH,alba-en-dxp-web,ABC,alba - EN - ZA - adc - id15, id15, ZA , EN ,5322,0.27,1436.94,34,0.237,23.7
+1830,SOUTH,alba-en-dxp-web,CA,alba - EN - AU - ca - id19, id19, AU , EN ,18,1.2,21.6,0,0,0
+1830,SOUTH,alba-en-dxp-web,LA,alba - EN - ZA - la - id10, id10, ZA , EN ,122,0.7,85.4,9,1.1985,119.8
+1830,SOUTH,alba-en-dxp-web,LB,alba - EN - AU - lb - id16, id16, AU , EN ,16,1.7,27.2,0,0,0
+1830,SOUTH,alba-en-dxp-web,WM,alba - EN - AU - WM - DISPLAY - id51, DISPLAY - id51, AU , EN ,150,1.1,165.0,1,0.1452,14.5
+1830,SOUTH,alba-en-dxp-web,WM,alba - EN - AU - WM - id3, id3, AU , EN ,87,1.2,104.4,4,1.1486,114.9
+1830,SOUTH,alba-en-dxp-web,WM,alba - EN - AU - WM - id40, id40, AU , EN ,34,1.5,51.0,0,0,0
+1830,SOUTH,alba-en-dxp-web,WM,alba - EN - ZA - WM - id4, id4, ZA , EN ,65,1.0,65.0,0,0,0
+1830,SOUTH,alba-en-dxp-web,BB,alba - EN - NZ - bb - id8, id8, NZ , EN ,57,2.0,114.0,2,0.4017,40.2
+1830,SOUTH,alba-en-dxp-web,BB,alba - EN - ZA - bb -id7,id7, ZA , EN ,50,0.8,40.0,1,0.2908,29.1
+1830,SOUTH,alba-es-dxp-new-web,ABC,alba - ES - CL - adc - id43, id43, CL , ES ,496,0.15,74.4,2,0.1558,15.6
+1830,SOUTH,alba-es-dxp-new-web,ABC,alba - ES - MX - adc - id44, id44, MX , ES ,436,0.15,65.4,1,0.0709,7.1
+1830,SOUTH,alba-es-dxp-new-web,CA,alba - ES - ES - ca - id46, id46, ES , ES ,244,1.2,292.8,2,0.22,22
+1830,SOUTH,alba-es-dxp-new-web,EG,alba - ES - ES - EG - id54, id54, ES , ES ,1,1.2,1.2,0,0,0
+1830,SOUTH,alba-es-dxp-new-web,LA,alba - ES - CL - la - id48, id48, CL , ES ,13,0.5,6.5,1,0.7015,70.2
+1830,SOUTH,alba-es-dxp-new-web,LA,alba - ES - ES - la - id47, id47, ES , ES ,3,1.2,3.6,0,0,0
+1830,SOUTH,alba-es-dxp-new-web,LA,alba - ES - MX - la1 - id22, id22, MX , ES ,135,0.65,87.75,0,0,0
+1830,SOUTH,alba-es-dxp-new-web,LA,alba - ES - PE - la1 - id24, id24, PE , ES ,94,0.65,61.1,1,0.0478,4.8
+1830,SOUTH,alba-es-dxp-new-web,TV,alba - ES - ES - TVF - id38, id38, ES , ES ,56,1.2,67.2,0,0,0
+1830,SOUTH,alba-es-dxp-new-web,WM,alba - ES - MX - WM - id8, id8, MX , ES ,97,0.4,38.8,1,0.1201,12
+1830,SOUTH,alba-es-dxp-new-web,BB,alba - ES - AR - bb - id2, id2, AR , ES ,1,0.5,0.5,0,0,0
+1830,SOUTH,alba-es-dxp-new-web,BB,alba - ES - CL - bb - id3, id3, CL , ES ,106,0.5,53.0,3,2.3885,238.8
+1830,SOUTH,alba-es-dxp-new-web,BB,alba - ES - CO - bb - id4, id4, CO , ES ,36,0.5,18.0,0,0,0
+1830,SOUTH,alba-es-dxp-new-web,BB,alba - ES - MX1 - bb - id5, id5, MX1 , ES ,2,0.5,1.0,0,0,0
+1830,SOUTH,eno-br-dxp-web,AZA,eon - BR - BR - aza - id59, id59, BR , BR ,4,0.45,1.8,0,0,0
+1830,SOUTH,eno-br-dxp-web,CA,eon - BR - PT - ca - id76, id76, PT , BR ,450,1.25,562.5,4,0.3108,31.1
+1830,SOUTH,eno-br-dxp-web,LA,eon - BR - BR - la - id62, id62, BR , BR ,589,0.5,294.5,9,0.2197,22
+1830,SOUTH,eno-br-dxp-web,LA,eon - BR - PT - la - id81, id81, PT , BR ,71,1.25,88.75,1,1.1565,115.7
+1830,SOUTH,eno-br-dxp-web,LA,eon - BR - PT - PUSH - la - id74, la - id74, PT , BR ,76,0.8,60.8,0,0,0
+1830,SOUTH,eno-br-dxp-web,WM,eon - BR - BR - WM - id79, id79, BR , BR ,1508,0.4,603.2,24,0.328,32.8
+1830,SOUTH,eno-br-dxp-web,WM,eon - BR - PT - WM - id71, id71, PT , BR ,64,1.25,80.0,0,0,0
+1830,SOUTH,eno-br-dxp-web,BB,eon - BR - BR - bb - id56, id56, BR , BR ,58,0.5,29.0,1,0.5417,54.2
+1830,SOUTH,eno-br-dxp-web,BB,eon - BR - BR - bb - id73, id73, BR , BR ,434,0.3,130.2,12,1.3061,130.6
+1830,SOUTH,eno-br-dxp-web,BB,eon - BR - BR - bb - id75, id75, BR , BR ,1321,0.6,792.6,26,0.2702,27
+1830,SOUTH,eno-br-dxp-web,BB,eon - BR - PT - bb - id70, id70, PT , BR ,55,1.25,68.75,0,0,0
+1830,SOUTH,gisa-br-dxp-web,AZA,gisa - BR - BR - aza - id13, id13, BR , BR ,348,0.45,156.6,8,0.36,36
+1830,SOUTH,gisa-br-dxp-web,LA,gisa - BR - BR - la - id15, id15, BR , BR ,2375,0.5,1187.5,58,0.3336,33.4
+1830,SOUTH,gisa-br-dxp-web,SU,gisa - BR - BR - SU - id29, id29, BR , BR ,1211,0.35,423.85,13,0.1775,17.8
+1830,SOUTH,gisa-br-dxp-web,SU,gisa - BR - BR - SU - PUSH - id39, PUSH - id39, BR , BR ,338,0.3,101.4,1,0.1767,17.7
+1830,SOUTH,gisa-br-dxp-web,WM,gisa - BR - BR - WM - id17, id17, BR , BR ,2239,0.5,1119.5,40,0.2563,25.6
+1830,SOUTH,gisa-br-dxp-web,BB,gisa - BR - BR - bb - id45, id45, BR , BR ,277,0.3,83.1,8,1.2503,125
+1830,SOUTH,gisa-br-dxp-web,BB,gisa - BR - BR - 1232 - bb - id49, bb - id49, BR , BR ,8,0.75,6.0,0,0,0
+1830,SOUTH,gisa-br-dxp-web,BB,gisa - BR - BR - 1232 - bb1 - id19, bb1 - id19, BR , BR ,79,0.85,67.15,2,0.3494,34.9
+1830,SOUTH,gisa-br-dxp-web,BB,"gisa - BR - BR - bb - TO BE CORRECTED 0,4€ - id46"," TO BE CORRECTED 0,4€ - id46", BR , BR ,9,0.4,3.6,0,0,0
+1830,SOUTH,gisa-br-dxp-web,BB,gisa - BR - BR - bb - FB - id52, FB - id52, BR , BR ,51,0.12,6.12,0,0,0
+1830,SOUTH,gisa-br-dxp-web,BB,gisa - BR - BR - bb1 - id48, id48, BR , BR ,2775,0.35,971.25,35,0.1828,18.3
+1830,SOUTH,gisa-br-dxp-web,BB,gisa - BR - BR - bb3 - id16, id16, BR , BR ,106,0.5,53.0,0,0,0
+1830,SOUTH,gisa-de-dxp-web,AZA,gisa - DE - DE - aza - id13, id13, DE , DE ,39,2.0,78.0,2,4.6849,468.5
+1830,SOUTH,gisa-de-dxp-web,CA,gisa - DE - DE - ca - id12, id12, DE , DE ,55,2.0,110.0,0,0,0
+1830,SOUTH,gisa-de-dxp-web,LB,gisa - DE - DE - lb - id11, id11, DE , DE ,38,2.0,76.0,1,0.8239,82.4
+1830,SOUTH,gisa-de-dxp-web,VM,gisa - DE - DE - VM - id22, id22, DE , DE ,30,2.5,75.0,2,1.5825,158.3
+1830,SOUTH,gisa-de-dxp-web,WM,gisa - DE - DE - DISPLAY - WM - id16, WM - id16, DE , DE ,89,1.0,89.0,0,0,0
+1830,SOUTH,gisa-de-dxp-web,BB,gisa - DE - DE - bb - id14, id14, DE , DE ,0,2.5,0.0,0,#DIV/0!,#DIV/0!
+1830,SOUTH,gisa-de-dxp-web,BB,gisa - DE - DE - bb1 - id15, id15, DE , DE ,0,3.0,0.0,0,#DIV/0!,#DIV/0!
+1830,SOUTH,gisa-en-dxp-web,CA,gisa - EN - AU - ca - id9, id9, AU , EN ,25,1.2,30.0,0,0,0
+1830,SOUTH,gisa-en-dxp-web,LA,gisa - EN - ZA - la - id4, id4, ZA , EN ,279,0.7,195.3,7,0.3983,39.8
+1830,SOUTH,gisa-en-dxp-web,LB,gisa - EN - AU - lb - id8, id8, AU , EN ,3,1.7,5.1,1,1.8412,184.1
+1830,SOUTH,gisa-en-dxp-web,WM,gisa - EN - AU - DISPLAY - WM - id10, WM - id10, AU , EN ,229,1.1,251.9,1,0.1683,16.8
+1830,SOUTH,gisa-en-dxp-web,WM,gisa - EN - AU - WM - id11, id11, AU , EN ,119,1.2,142.8,3,1.155,115.5
+1830,SOUTH,gisa-en-dxp-web,WM,gisa - EN - AU - WM - id38, id38, AU , EN ,114,1.5,171.0,0,0,0
+1830,SOUTH,gisa-en-dxp-web,WM,gisa - EN - ZA - WM - id12, id12, ZA , EN ,184,1.0,184.0,4,0.1411,14.1
+1830,SOUTH,gisa-en-dxp-web,BB,gisa - EN - ZA - bb - id14, id14, ZA , EN ,77,0.8,61.6,2,0.5127,51.3
+1830,SOUTH,gisa-es-dxp-web,AZA,gisa - ES - MX - aza - id42, id42, MX , ES ,19,0.4,7.6,0,0,0
+1830,SOUTH,gisa-es-dxp-web,LA,gisa - ES - CL - PUSH - la - id26, la - id26, CL , ES ,92,0.4,36.8,0,0,0
+1830,SOUTH,gisa-es-dxp-web,LA,gisa - ES - PE - la1 - id25, id25, PE , ES ,159,0.4,63.6,7,0.7296,73
+1830,SOUTH,gisa-es-dxp-web,SU,gisa - ES - CL - SU - id20, id20, CL , ES ,1,0.5,0.5,0,0,0
+1830,SOUTH,gisa-es-dxp-web,SU,gisa - ES - MX - SU - id38, id38, MX , ES ,5,0.35,1.75,0,0,0
+1830,SOUTH,gisa-es-dxp-web,TV,gisa - ES - ES - TVF - id22, id22, ES , ES ,1,1.2,1.2,0,0,0
+1830,SOUTH,gisa-es-dxp-web,WM,gisa - ES - CL - DISPLAY - WM - id18, WM - id18, CL , ES ,66,0.4,26.4,1,0.2648,26.5
+1830,SOUTH,gisa-es-dxp-web,WM,gisa - ES - MX - DISPLAY - WM - id19, WM - id19, MX , ES ,47,0.4,18.8,0,0,0
+1830,SOUTH,gisa-es-dxp-web,BB,gisa - ES - AR - bb - id39, id39, AR , ES ,1,0.5,0.5,0,0,0
+1830,SOUTH,gisa-es-dxp-web,BB,gisa - ES - CL - bb - id13, id13, CL , ES ,56,0.5,28.0,0,0,0
+1830,SOUTH,gisa-es-dxp-web,BB,gisa - ES - MX - bb - id44, id44, MX , ES ,11,0.65,7.15,0,0,0
+1830,SOUTH,gisa-it-dxp-web,ABS,gisa - IT - IT - ADS - id15, id15, IT , IT ,1190,1.5,1785.0,22,0.4476,44.8
+1830,SOUTH,gisa-it-dxp-web,AZA,gisa - IT - IT - aza - id11, id11, IT , IT ,1,1.5,1.5,0,0,0
+1830,SOUTH,gisa-it-dxp-web,LB,gisa - IT - IT - lb - id14, id14, IT , IT ,44,1.0,44.0,1,0.4152,41.5
+1830,SOUTH,gisa-it-dxp-web,WG,gisa - IT - IT - WG - id12, id12, IT , IT ,38,1.4,53.2,0,0,0
+1830,SOUTH,gisa-it-dxp-web,WM,gisa - IT - IT - WM - id13, id13, IT , IT ,17,1.4,23.8,0,0,0
+1830,SOUTH,gisa-it-dxp-web,BB,gisa - IT - IT - bb - id10, id10, IT , IT ,237,1.3,308.1,1,0.1217,12.2
+1830,SOUTH,gisa-nl-dxp-web,LA,gisa - NL - BENL - la - id15, id15, BENL , NL ,38,2.0,76.0,0,0,0
+1830,SOUTH,gisa-nl-dxp-web,LA,gisa - NL - NL - la - id14, id14, NL , NL ,26,2.0,52.0,0,0,0
+1830,SOUTH,gisa-nl-dxp-web,LB,gisa - NL - BENL - lb - id17, id17, BENL , NL ,16,2.0,32.0,0,0,0
+1830,SOUTH,gisa-nl-dxp-web,LB,gisa - NL - NL - lb - id16, id16, NL , NL ,2,2.0,4.0,0,0,0
+1830,SOUTH,gisa-nl-dxp-web,VM,gisa - NL - BENL - VM - id11, id11, BENL , NL ,171,2.0,342.0,5,0.5627,56.3
+1830,SOUTH,gisa-nl-dxp-web,VM,gisa - NL - NL - VM - id10, id10, NL , NL ,65,2.0,130.0,0,0,0
+1830,SOUTH,gisa-nl-dxp-web,BB,gisa - NL - BENL - bb - id13, id13, BENL , NL ,269,2.5,672.5,3,0.1206,12.1
+1830,SOUTH,gisa-nl-dxp-web,BB,gisa - NL - NL - bb - id12, id12, NL , NL ,66,2.5,165.0,0,0,0
